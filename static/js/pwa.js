@@ -2,11 +2,11 @@ function createSmoothChart() {
     console.log("createSmoothChart fucntion call")
     // Dummy data
     const data = [
-        { date: "2023-01-01", students: 40, teacher: 45 },
-        { date: "2023-02-01", students: 50, teacher: 55 },
+        { date: "2023-01-01", students: 4, teacher: 45 },
+        { date: "2023-02-01", students: 500, teacher: 55 },
         { date: "2023-03-01", students: 60, teacher: 65 },
-        { date: "2023-04-01", students: 70, teacher: 75 },
-        { date: "2023-05-01", students: 80, teacher: 85 },
+        { date: "2023-04-01", students: 7, teacher: 75 },
+        { date: "2023-05-01", students: 800, teacher: 85 },
         { date: "2023-06-01", students: 90, teacher: 95 }
     ];
 

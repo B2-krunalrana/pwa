@@ -4,13 +4,13 @@ self.addEventListener('install', event => {
         caches.open('ahaguru-analytics-cache').then(cache => {
             console.log("Caching files...");
             return cache.addAll([
-                '/index.html',
-                '/static/css/pwa.css',
-                '/static/js/pwa-frame.js',
-                '/static/js/pwa.js',
-                '/manifest.json',
-                '/static/icons/icon-192x192.png',
-                '/static/icons/icon-512x512.png'
+                'index.html',
+                'static/css/pwa.css',
+                'static/js/pwa-frame.js',
+                'static/js/pwa.js',
+                'manifest.json',
+                'static/icons/icon-192x192.png',
+                'static/icons/icon-512x512.png'
             ]);
         })
     );
