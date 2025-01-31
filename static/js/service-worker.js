@@ -4,7 +4,7 @@ self.addEventListener('install', event => {
         caches.open('ahaguru-analytics-cache').then(cache => {
             console.log("Caching files...");
             return cache.addAll([
-                '/pwa.html',
+                '/index.html',
                 '/static/css/pwa.css',
                 '/static/js/pwa-frame.js',
                 '/static/js/pwa.js',
