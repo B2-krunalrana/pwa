@@ -1,20 +1,30 @@
 {
-    "name": " ",
-    "short_name": "Analytics",
-    "start_url": "index.html",
-    "display": "standalone",
-    "background_color": "#dcedff",
-    "theme_color": "#dcedff",
-    "icons": [
-        { 
-            "src": "static/icons/icon-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "static/icons/icon-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
-    ]
+  "name": "Indus Soul",
+  "short_name": "Analytics",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#dcedff",
+  "theme_color": "#dcedff",
+  "icons": [
+    {
+      "src": "static/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "static/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "id": "#INDUS001",
+  "description": "TEST PWA FROM INDUSSOUL",
+  "lang": "en",
+  "shortcuts": [
+    {
+      "name": "My Instagram",
+      "url": "https://www.instagram.com/meet.krunalrana/",
+      "description": "This is authors Instagram handle "
+    }
+  ]
 }
