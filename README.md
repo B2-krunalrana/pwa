@@ -36,5 +36,5 @@ frontend
 - [Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 
 ## Learn more about PWA : 
-- [Progressive Web Apps (PWAs) with PWABuilder by MICROSOFT]([https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps](https://learn.microsoft.com/en-us/training/paths/create-pwas-with-pwabuilder/?source=learn)) 
+- [Progressive Web Apps (PWAs) with PWABuilder by MICROSOFT](https://learn.microsoft.com/en-us/training/paths/create-pwas-with-pwabuilder/?source=learn)
 - Must check Doc : https://docs.pwabuilder.com/#/
